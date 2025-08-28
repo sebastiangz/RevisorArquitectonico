@@ -8,7 +8,7 @@
 
 ## 📋 Descripción
 
-**RevisorArquitectonico** es una herramienta especializada que analiza automáticamente archivos de AutoCAD (DWG) para verificar el cumplimiento de proyectos arquitectónicos con los reglamentos de construcción vigentes en México. 
+**RevisorArquitectonico** es una herramienta especializada que analiza automáticamente archivos de AutoCAD (DWG versión 2018 (AC1032) para verificar el cumplimiento de proyectos arquitectónicos con los reglamentos de construcción vigentes en México. 
 
 La aplicación genera reportes profesionales detallados que facilitan el proceso de revisión técnica y aseguran que los proyectos cumplan con las normativas municipales antes de ser presentados a las autoridades correspondientes.
 
@@ -63,7 +63,7 @@ El sistema incluye las siguientes normativas mexicanas:
 ## 📥 Instalación y Descarga
 
 ### Descarga Directa
-1. Ir a [Releases](https://github.com/usuario/RevisorArquitectonico/releases)
+1. Ir a [Releases](https://github.com/sebastiangz/RevisorArquitectonico/releases)
 2. Descargar la última versión: `RevisorArquitectonico-v1.0.0.zip`
 3. Extraer el archivo ZIP en la carpeta deseada
 4. Ejecutar `RevisorArquitectonico.exe`
@@ -247,16 +247,16 @@ flowchart TD
 ## 📞 Soporte y Contacto
 
 ### Reportar Problemas
-- **Issues:** [GitHub Issues](https://github.com/usuario/RevisorArquitectonico/issues)
+- **Issues:** [GitHub Issues](https://github.com/sebastiangz/RevisorArquitectonico/issues)
 - **Email:** soporte@revisorarquitectonico.com
 
 ### Solicitar Características
-- **Feature Requests:** [GitHub Discussions](https://github.com/usuario/RevisorArquitectonico/discussions)
+- **Feature Requests:** [GitHub Discussions](https://github.com/sebastiangz/RevisorArquitectonico/discussions)
 - **Normativas Específicas:** Contactar para personalización
 
 ### Documentación Adicional
-- **Wiki:** [Documentación completa](https://github.com/usuario/RevisorArquitectonico/wiki)
-- **Videos tutoriales:** [Canal de YouTube](https://youtube.com/revisorarquitectonico)
+- **Wiki:** [Documentación completa](https://github.com/sebastiangz/RevisorArquitectonico/wiki)
+- **Videos tutoriales:** [Canal de YouTube](https://youtube.com/revisorarquitectonico) - En Proceso. 
 
 ## 📄 Licencia
 
@@ -283,5 +283,5 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 
 **RevisorArquitectonico** - *Garantizando el cumplimiento normativo en proyectos arquitectónicos*
 
-[![GitHub stars](https://img.shields.io/github/stars/usuario/RevisorArquitectonico.svg?style=social&label=Star)](https://github.com/usuario/RevisorArquitectonico)
-[![GitHub forks](https://img.shields.io/github/forks/usuario/RevisorArquitectonico.svg?style=social&label=Fork)](https://github.com/usuario/RevisorArquitectonico/fork)
+[![GitHub stars](https://img.shields.io/github/stars/sebastiangz/RevisorArquitectonico.svg?style=social&label=Star)](https://github.com/sebastiangz/RevisorArquitectonico)
+[![GitHub forks](https://img.shields.io/github/forks/sebastiangz/RevisorArquitectonico.svg?style=social&label=Fork)](https://github.com/sebastiangz/RevisorArquitectonico/fork)
