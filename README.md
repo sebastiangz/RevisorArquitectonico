@@ -248,7 +248,7 @@ flowchart TD
 
 ### Reportar Problemas
 - **Issues:** [GitHub Issues](https://github.com/sebastiangz/RevisorArquitectonico/issues)
-- **Email:** soporte@revisorarquitectonico.com
+- **Email:** sgonzalez@infraestructuragis.com
 
 ### Solicitar Características
 - **Feature Requests:** [GitHub Discussions](https://github.com/sebastiangz/RevisorArquitectonico/discussions)
@@ -277,7 +277,7 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 
 - Desarrollado para la industria de la construcción mexicana
 - Basado en reglamentos de construcción vigentes
-- Probado con proyectos reales de despachos arquitectónicos
+- Será probado con proyectos reales de despachos arquitectónicos
 
 ---
 
