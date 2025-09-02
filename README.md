@@ -247,15 +247,15 @@ flowchart TD
 ## 📞 Soporte y Contacto
 
 ### Reportar Problemas
-- **Issues:** [GitHub Issues](https://github.com/sebastiangz/RevisorArquitectonico/issues)
+- **Issues:** [GitHub Issues](https://github.com/sebastiangz/RevisorArquitectonico/) En Proceso. 
 - **Email:** sgonzalez@infraestructuragis.com
 
 ### Solicitar Características
-- **Feature Requests:** [GitHub Discussions](https://github.com/sebastiangz/RevisorArquitectonico/discussions)
+- **Feature Requests:** [GitHub Discussions](https://github.com/sebastiangz/RevisorArquitectonico/) En Proceso. 
 - **Normativas Específicas:** Contactar para personalización
 
 ### Documentación Adicional
-- **Wiki:** [Documentación completa](https://github.com/sebastiangz/RevisorArquitectonico/wiki)
+- **Wiki:** [Documentación completa](https://github.com/sebastiangz/RevisorArquitectonico/wiki) En Proceso. 
 - **Videos tutoriales:** [Canal de YouTube](https://youtube.com/revisorarquitectonico) - En Proceso. 
 
 ## 📄 Licencia
@@ -266,16 +266,9 @@ Este software está licenciado bajo la **Licencia MIT** - ver el archivo [LICENS
 
 Las contribuciones son bienvenidas. Para cambios importantes:
 
-1. Abrir un issue para discutir los cambios propuestos
-2. Fork del repositorio
-3. Crear branch para la característica (`git checkout -b feature/NuevaCaracteristica`)
-4. Commit de cambios (`git commit -am 'Añadir nueva característica'`)
-5. Push al branch (`git push origin feature/NuevaCaracteristica`)
-6. Crear Pull Request
-
 ## ⭐ Reconocimientos
 
-- Desarrollado para la industria de la construcción mexicana
+- Desarrollo puede ser aplicar en la industria de la construcción mexicana
 - Basado en reglamentos de construcción vigentes
 - Será probado con proyectos reales de despachos arquitectónicos
 
